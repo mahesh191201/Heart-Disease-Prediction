@@ -9,8 +9,6 @@ Logistic Regression
 
 Naive Bayes
 
-Support Vector Machine 
-
 K-Nearest Neighbours
 
 Decision Tree
